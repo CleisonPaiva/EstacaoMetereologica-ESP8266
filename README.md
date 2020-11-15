@@ -5,6 +5,15 @@ Projeto academico para a disciplina de IOT na faculade UCL</br>
 Aluno:Cleison Mendes Paiva</br>
 Curso:Sitemas de Informação</br>
 
+Materiais Utilizads:
+1 Placa ESP8266(Com modulo wifi integrado) </br>
+1 Sensor de temperatura e umidade DHT11(DHT22 tambem funciona)</br>
+1 Sensor de luminosidade BH1750</br>
+1 Senso de Chuva(Com modulo) </br>
+1 Sensor de Barometrico BME280</br>
+2 Protoboard de 830 pontos</br>
+Cabos jumpers</br>
+
 Bibliotecas Utilizadas:
 <ESP8266WiFi.h> </br>
 <PubSubClient.h></br>
@@ -28,6 +37,6 @@ Dados sendo apresentados na plataforma DOJOT.
 
 
 Fontes:
-https://techtutorialsx.com/2017/04/09/esp8266-connecting-to-mqtt-broker/
+https://techtutorialsx.com/2017/04/09/esp8266-connecting-to-mqtt-broker/</br>
 https://dojotdocs.readthedocs.io/pt_BR/latest/
 
