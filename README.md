@@ -16,7 +16,7 @@ Materiais Utilizados:</br>
 2 Protoboard de 830 pontos</br>
 Cabos jumpers</br>
 
-Bibliotecas Utilizadas:
+Bibliotecas Utilizadas:</br>
 <ESP8266WiFi.h> </br>
 <PubSubClient.h></br>
 <Wire.h></br>
