@@ -13,6 +13,8 @@ Bibliotecas Utilizadas:
 <Adafruit_Sensor.h></br>
 <Adafruit_BME280.h></br>
 "DHT.h"</br>
+
+Instalando as bibliotecas e executando o codigo "Principal_v1" podemos obter no serial os valores de medição dos sensores conforme a imagem de exemplo abaixo
 ![Screenshot](Dados_simples.png)
 
 
