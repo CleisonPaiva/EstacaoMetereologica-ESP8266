@@ -22,5 +22,12 @@ Instalando as bibliotecas e executando o codigo "Principal_v2_dojot" podemos obt
 
 ![Screenshot](Dados_Envio_mqtt.png)
 
+Dados sendo apresentados na plataforma DOJOT.
+
 ![Screenshot](Dados_dojot.png)
+
+
+Fontes:
+https://techtutorialsx.com/2017/04/09/esp8266-connecting-to-mqtt-broker/
+https://dojotdocs.readthedocs.io/pt_BR/latest/
 
