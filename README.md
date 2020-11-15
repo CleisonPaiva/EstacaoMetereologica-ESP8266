@@ -3,3 +3,6 @@
 
 
 ![Screenshot](Dados_Envio_mqtt.png)
+
+![Screenshot](Dados_dojot.png)
+
