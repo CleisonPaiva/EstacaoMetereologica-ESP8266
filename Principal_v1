@@ -58,7 +58,8 @@ void loop()
 
   
   sensor.startConversion();
-Serial.println("--------- DADOS ----------");
+  
+  Serial.println("--------- DADOS ----------");
   if (sensor.waitForCompletion()) {
     
     lux = sensor.read();
@@ -96,8 +97,7 @@ Serial.println("--------- DADOS ----------");
   // Armazena os valores de leitura dos sensores nas variáveis
   val_d = digitalRead(pino_d);
   val_a = analogRead(pino_a);
-  // Se a leitura analógica for menor que 300
-      // Chuva intensa
+  
 
     Serial.print("Chuva:");
     Serial.print(val_a);
@@ -112,8 +112,8 @@ void printValues() {
   Serial.print(bme.readTemperature());
   Serial.println(" ºC");
 
-  // Convert temperature to Fahrenheit
-  /*Serial.print("Temperature = ");
+  // Converte temperatura para Fahrenheit
+  Serial.print("Temperature = ");
     Serial.print(1.8 * bme.readTemperature() + 32);
     Serial.println(" F");/
 
