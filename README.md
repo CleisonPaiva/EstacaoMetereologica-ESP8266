@@ -14,10 +14,11 @@ Bibliotecas Utilizadas:
 <Adafruit_BME280.h></br>
 "DHT.h"</br>
 
-Instalando as bibliotecas e executando o codigo "Principal_v1" podemos obter no serial os valores de medição dos sensores conforme a imagem de exemplo abaixo
+Instalando as bibliotecas e executando o codigo "Principal_v1" podemos obter no serial os valores de medição dos sensores conforme a imagem de exemplo abaixo.
 
 ![Screenshot](Dados_simples.png)
 
+Instalando as bibliotecas e executando o codigo "Principal_v2_dojot" podemos obter no serial os valores de medição dos sensores conforme a imagem de exemplo abaixo,esses valores estão sendo enviados para a plataforma DOJOT.
 
 ![Screenshot](Dados_Envio_mqtt.png)
 
