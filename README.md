@@ -1,9 +1,9 @@
 # Estacao-Metereologica-ESP8266
 
-Projeto de uma estação metereologica com ESP8266 enviando dados para a plataforma DOJOT atraves do protocolo MQTT
-Projeto academico para a disciplina de IOT na faculade UCL
-Aluno:Cleison Mendes Paiva
-Curso:Sitemas de Informação
+Projeto de uma estação metereologica com ESP8266 enviando dados para a plataforma DOJOT atraves do protocolo MQTT</br>
+Projeto academico para a disciplina de IOT na faculade UCL</br>
+Aluno:Cleison Mendes Paiva</br>
+Curso:Sitemas de Informação</br>
 
 Bibliotecas Utilizadas:
 <ESP8266WiFi.h> </br>
