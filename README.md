@@ -36,7 +36,7 @@ Dados sendo apresentados na plataforma DOJOT.
 ![Screenshot](Dados_dojot.png)
 
 
-Fontes:
+Fontes:</br>
 https://techtutorialsx.com/2017/04/09/esp8266-connecting-to-mqtt-broker/</br>
 https://dojotdocs.readthedocs.io/pt_BR/latest/
 
