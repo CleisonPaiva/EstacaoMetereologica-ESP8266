@@ -5,7 +5,9 @@ Projeto academico para a disciplina de IOT na faculade UCL</br>
 Aluno:Cleison Mendes Paiva</br>
 Curso:Sitemas de Informação</br>
 
-Materiais Utilizads:</br>
+Em "pinagem esp8266.docx" se encontra o esquematico de ligações utilizado</br>
+
+Materiais Utilizados:</br>
 1 Placa ESP8266(Com modulo wifi integrado) </br>
 1 Sensor de temperatura e umidade DHT11(DHT22 tambem funciona)</br>
 1 Sensor de luminosidade BH1750</br>
